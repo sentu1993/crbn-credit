@@ -1,0 +1,727 @@
+# CRBN.CREDIT — Complete LLM Knowledge File
+# Version: 1.0 | Generated: 2026-05-26
+# Purpose: AI/LLM crawlability and comprehension of CRBN.CREDIT platform
+# Source: https://crbn.credit
+# Coverage: All core platform pages (excluding blog/dynamic login pages)
+# Maintainer: contact@crbn.credit
+
+================================================================================
+SECTION 1: PLATFORM OVERVIEW & IDENTITY
+================================================================================
+
+PLATFORM NAME: CRBN.CREDIT
+TAGLINE: The Central Nervous System of The Carbon Economy
+SUBTITLE: The Institutional Terminal for Voluntary Carbon Markets (VCM) & EU ETS
+BASE URL: https://crbn.credit
+CONTACT EMAIL: contact@crbn.credit
+FOUNDED BY: Souptik Guha Roy
+TWITTER/X: @CRBNCredit | https://x.com/CRBNCredit
+LINKEDIN: https://www.linkedin.com/company/crbn-credit/
+INSTAGRAM: https://www.instagram.com/crbncredit/
+YOUTUBE: https://www.youtube.com/@CRBN.credit
+COMPLIANCE STATUS: SOC 2 Compliant | Enterprise Secure
+
+CORE MISSION:
+CRBN.CREDIT is the premier institutional-grade carbon market intelligence terminal.
+It solves the fragmentation problem of the global carbon economy by aggregating
+real-time data across registries and blockchains into a single unified interface.
+The platform is designed for hedge funds, corporate sustainability desks, brokers,
+analysts, consultants, and climate-tech innovators.
+
+PRIMARY MARKET COVERAGE:
+- Voluntary Carbon Market (VCM)
+- EU Emissions Trading System (EU ETS / Compliance)
+- Tokenized / On-Chain Carbon Assets (ReFi / DeFi)
+- Emerging regulatory markets (CBAM, CORSIA, Article 6 / Paris Agreement)
+
+MARKET SCALE TRACKED: $1.2 Trillion in Compliance & Voluntary Assets
+
+KEY LIVE METRICS (as of site data):
+- EU ETS Allowance (EUA): €68.20 (+1.24%)
+- Nature-Based Offsets Global Index: $5.15 (-0.42%)
+- Total Verified Retirements YTD: 42.8 Million Tonnes CO2e
+
+IMPORTANT DISCLAIMER: Content and platform data are generated with AI intelligence
+models and may not be 100% accurate. Users should verify all information independently
+and consult qualified professionals before making investment or compliance decisions.
+
+================================================================================
+SECTION 2: FOUNDER & TEAM
+================================================================================
+
+FOUNDER: Souptik Guha Roy
+ROLE: Builder & Platform Architect
+LINKEDIN: https://www.linkedin.com/in/souptik-guha-roy/
+
+BACKGROUND:
+Souptik Guha Roy is a builder with deep experience across digital systems, market
+research, and automation. His background spans virtual operations and technical
+implementation, with a focus on creating structured systems that reduce complexity
+in opaque markets.
+
+FOUNDING PHILOSOPHY:
+"The platform reflects a belief that future market leaders will be those who
+understand data deeply, not just those who transact quickly."
+
+ORGANIZATIONAL INDEPENDENCE:
+CRBN.CREDIT is an independent platform. It is NOT affiliated with any carbon
+registry, exchange, or issuing body. It does not represent Verra, Gold Standard,
+Puro.earth, or any other registry.
+
+================================================================================
+SECTION 3: PLATFORM FEATURES & TOOLSET
+================================================================================
+
+CRBN.CREDIT provides a full-stack institutional toolset for carbon market
+participants. All tools are accessible via the terminal interface at crbn.credit.
+
+--- PORTFOLIO & STRATEGY TOOLS ---
+
+1. PORTFOLIO ARCHITECT PRO
+   Description: AI-driven carbon credit allocation engine.
+   Function: Generates bespoke portfolio construction based on risk profile,
+   budget, and net-zero targets. Combines high-integrity credit types
+   (tech removal, nature-based, avoidance) into optimized allocations.
+
+2. NET ZERO STRATEGY GENERATOR
+   Description: Automated reduction pathway builder.
+   Function: Creates structured Net Zero strategies aligned with corporate
+   climate commitments and reporting deadlines.
+
+3. PRICE FORECAST ENGINE
+   Description: Predictive pricing models with Bear and Bull case scenarios.
+   Function: Projects carbon asset prices out to 2030 using institutional
+   consensus data (EY, McKinsey, and proprietary CRBN models).
+
+4. RISK HEATMAP
+   Description: Geospatial asset risk modeling.
+   Function: Maps physical and regulatory risk across carbon project locations.
+
+5. AI INVESTMENT STRATEGIST
+   Description: Configurable portfolio thesis generator.
+   Function: Users input risk profile (Conservative to Aggressive) and target
+   sector (Nature-Based or Tech-Based). System generates a bespoke 2025–2030
+   investment thesis.
+
+--- COMPLIANCE & REGULATORY TOOLS ---
+
+6. COMPLIANCE NAVIGATOR
+   Description: Real-time tracking dashboard for CBAM, CORSIA, and EU ETS.
+   Function: Helps institutions manage compliance exposure across multiple
+   regulatory frameworks simultaneously.
+
+7. SCOPE 3 IDENTIFIER
+   Description: Supply chain emissions hotspot analysis tool.
+   Function: Identifies where in a corporate supply chain the largest Scope 3
+   emission concentrations exist.
+
+8. TCFD REPORT GENERATOR
+   Description: Automated climate disclosure report builder.
+   Function: Generates standardized reports compatible with TCFD, CSRD, CDP,
+   and SEC climate disclosure frameworks.
+
+9. SDG IMPACT DASHBOARD
+   Description: UN Sustainable Development Goal contribution mapping.
+   Function: Scores carbon project portfolios against all relevant UN SDGs.
+
+--- DATA & INTELLIGENCE TOOLS ---
+
+10. LIVE INTEL FEED
+    Description: Real-time AI strategy memory and news aggregation.
+    Function: Continuously updates with market-moving intelligence and
+    regulatory developments.
+
+11. NEWS SCREENER
+    Description: Sentiment analysis and market impact tracking.
+    Function: Monitors news flow and assigns sentiment scores to relevant
+    carbon market events.
+
+12. BENCHMARK TRACKER
+    Description: Live carbon market pricing across asset classes.
+    Function: Tracks benchmark prices for VCM and compliance markets in real time.
+
+13. REGISTRY LOOKUP
+    Description: Integrated search tool for Verra and Gold Standard registries.
+    Function: Allows direct lookup of carbon projects, serial numbers, and
+    retirement records.
+
+14. METHODOLOGY LAB
+    Description: Side-by-side carbon methodology comparison.
+    Function: Enables analysts to compare project types, standards, and
+    quantification approaches.
+
+15. KNOWLEDGE HUB
+    Description: Regulatory documentation and market education guides.
+    Function: Centralized library for frameworks, standards, and market primers.
+
+--- CREDIT ANALYSIS TOOLS ---
+
+16. PROJECT AUDITOR
+    Description: Automated due diligence engine.
+    Function: Analyzes carbon project documentation for quality, additionality,
+    permanence, and registry compliance.
+
+17. FAIR VALUE CALCULATOR
+    Description: AI-driven price estimation tool.
+    Function: Generates fair value estimates using VWAP from multiple venues
+    (CEX, DEX, OTC).
+
+18. RATING ANALYZER
+    Description: Multi-agency credit rating synthesis.
+    Function: Aggregates quality ratings from multiple sources into a composite
+    carbon credit quality score.
+
+--- EMISSION & RETIREMENT TOOLS ---
+
+19. CARBON FOOTPRINT CALCULATOR
+    Description: Corporate Scope 1 & 2 emission estimator.
+    URL: https://crbn.credit/calculator
+    Inputs: Monthly electricity (kWh), natural gas (Therms), fleet mileage (Miles/Mo)
+    Output: Estimated Annual Carbon Footprint in Tonnes CO2e + offset strategy.
+
+20. RETIREMENT LEDGER
+    Description: Immutable proof-of-offset record system.
+    Function: Maintains a permanent, verifiable record of carbon credit retirements.
+
+================================================================================
+SECTION 4: PRICE FORECASTS (2026–2030)
+================================================================================
+
+SOURCE: Institutional consensus combining EY, McKinsey, and proprietary CRBN models.
+PAGE URL: https://crbn.credit/forecasts
+
+FORECAST TABLE:
+┌─────────────────────────────┬──────────────┬─────────────┬──────────────┐
+│ Asset Class                 │ 2026 (Live)  │ 2028 (F)    │ 2030 (F)     │
+├─────────────────────────────┼──────────────┼─────────────┼──────────────┤
+│ EU ETS (Compliance)         │ €78.50       │ €110.00     │ €145.00+     │
+│ Tech-Based Removal          │ $280–$600    │ $200–$400   │ $150–$250    │
+│ Nature-Based Removal        │ $28–$35      │ $35–$50     │ $60–$90      │
+│ Legacy Avoidance Credits    │ $1–$3        │ $0–$2       │ $0 (obsolete)│
+└─────────────────────────────┴──────────────┴─────────────┴──────────────┘
+
+KEY MARKET THESIS — "THE SUPPLY SQUEEZE":
+Analysis indicates a severe supply deficit for high-integrity removal credits
+beginning in Q4 2026. As Article 6.4 of the Paris Agreement operationalizes,
+a rapid bifurcation is expected where "junk" offsets become stranded assets,
+while verified removals (DAC, Biochar, Enhanced Weathering) command significant
+premiums. The convergence of Net Zero deadlines for Fortune 500 companies will
+create a "compliance cliff," driving prices for assets with verifiable permanence
+> 100 years.
+
+KEY CONCEPTS EXPLAINED:
+
+THE BIFURCATION:
+The market is splitting into two distinct asset classes:
+- Cheap, low-quality avoidance credits: trending toward $0
+- High-quality, permanent removal credits: trending toward $100+
+
+ARTICLE 6 IMPACT:
+Pricing models factor in increased demand from sovereign nations purchasing ITMOs
+(Internationally Transferred Mitigation Outcomes) under the Paris Agreement.
+
+WHY BIOCHAR OUTPERFORMS REFORESTATION:
+Biochar offers immediate, permanent sequestration (100+ year storage) with low
+reversal risk. Forestry projects are vulnerable to wildfires and disease.
+
+TECH-BASED REMOVAL PREMIUM CALCULATION:
+Premium is derived from the "Levelized Cost of Capture" (LCOC) for Direct Air
+Capture (DAC) and the scarcity of available credits relative to corporate demand
+for durable removal.
+
+WHY 2030 FORECASTS ARE HIGHER:
+Net Zero commitments from Fortune 500 companies largely mature around 2030,
+creating a demand shock that current project pipelines cannot meet.
+
+================================================================================
+SECTION 5: DEFI CARBON BRIDGE
+================================================================================
+
+PAGE URL: https://crbn.credit/defi
+PAGE TITLE: DeFi Carbon Bridge | On-Chain Liquidity & Settlement
+
+PURPOSE:
+Bridges traditional carbon credits to on-chain infrastructure for 24/7 trading,
+instant settlement, and transparent pricing.
+
+BLOCKCHAIN: Polygon Network
+PROTOCOL INTEGRATION: KlimaDAO ecosystem
+DEX INTEGRATION: SushiSwap, Uniswap v3
+
+STEP-BY-STEP ON-CHAIN PROCESS:
+Step 1: Acquire USDC (on Polygon Network)
+Step 2: Swap for KLIMA token (via SushiSwap)
+Step 3: Retire & Offset (generates on-chain retirement certificate)
+
+TARGET AUDIENCE:
+- Institutional Funds: Seeking high-yield green assets with on-chain settlement
+- Corporate Treasuries: Hedging future carbon liabilities
+- ReFi Developers: Building automated climate dApps and smart contract integrations
+
+LIVE DATA: Live KLIMA/USDC price feed embedded from DexScreener
+(Pool: 0x5786b267d35f9d011c4750e0b0ba584e1fdbead1 on Polygon)
+
+COMPLIANCE NOTICE:
+Smart contracts involve risk. Carbon tokens are not securities but may be subject
+to regional VCM regulations. Users must understand DeFi protocols before interacting.
+
+TERMINOLOGY:
+- ReFi: Regenerative Finance — DeFi protocols focused on environmental outcomes
+- KlimaDAO: A DeFi protocol that backs KLIMA tokens with carbon credits
+- BCT / NCT: Base Carbon Tonne / Nature Carbon Tonne — Toucan Protocol tokens
+- KLIMA: On-chain carbon-backed currency
+- On-chain retirement: Permanent, publicly verifiable carbon credit cancellation
+
+================================================================================
+SECTION 6: INSTITUTIONAL MARKETPLACE
+================================================================================
+
+PAGE URL: https://crbn.credit/marketplace
+PAGE TITLE: Carbon Credit Marketplace | Buy Verified Offsets
+
+STATUS: Beta Access (apply required)
+
+PURPOSE:
+AI-powered carbon credit sourcing and portfolio construction for institutional
+buyers seeking high-integrity verified carbon offsets.
+
+LIVE INVENTORY (Verified — for illustration, audited Q1 2026):
+┌──────────────────────────────┬──────────────┬──────────┬──────────┬────────┐
+│ Project                      │ Type         │ Price    │ Location │ Rating │
+├──────────────────────────────┼──────────────┼──────────┼──────────┼────────┤
+│ Puro.earth Biochar           │ Tech Removal │ $135.50/t│ Finland  │ AAA    │
+│ Blue Carbon Mangrove         │ Nature Removal│ $32.75/t │Indonesia │ AA+    │
+│ Solar Farm Array             │ Avoidance    │ $6.20/t  │ India    │ A-     │
+│ Direct Air Capture (DAC)     │ Tech Removal │ $580.00/t│ Iceland  │ AAA+   │
+│ Amazon REDD+                 │ Avoidance    │ $8.50/t  │ Brazil   │ B+     │
+└──────────────────────────────┴──────────────┴──────────┴──────────┴────────┘
+NOTE: Vintage years range from 2023–2026. Verified by Verra and Gold Standard.
+
+AI PORTFOLIO ARCHITECT PARAMETERS:
+- Carbon to Offset (Tonnes): User-defined
+- Budget (USD): User-defined
+- Preference Options: Balanced Mix | High Permanence (Tech) | Nature Restoration
+
+EXECUTION WORKFLOW:
+Step 1 — SELECT & ANALYZE: Choose credits manually or use AI portfolio builder
+Step 2 — ESCROW & AUDITING: Funds held in smart contract escrow while registry
+         APIs verify credit vintage, serial numbers, and non-retirement status
+Step 3 — RETIREMENT / TRANSFER: Credits retired on-chain (public certificate
+         generated) or transferred directly to registry account
+
+KYC/AML: All trades subject to Know Your Customer and Anti-Money Laundering
+onboarding before execution.
+
+CREDIT TYPES AVAILABLE:
+1. Tech-Based Removal — Biochar, Direct Air Capture (DAC), Enhanced Weathering
+2. Nature-Based Removal — Mangrove restoration, Blue Carbon, Reforestation
+3. Avoidance — Solar farms, REDD+ (forest protection), renewable energy
+
+REGISTRY STANDARDS:
+- Verra (VCS — Verified Carbon Standard)
+- Gold Standard (GS)
+- Puro.earth (for engineered removals)
+
+================================================================================
+SECTION 7: CARBON FOOTPRINT CALCULATOR
+================================================================================
+
+PAGE URL: https://crbn.credit/calculator
+PAGE TITLE: Free Carbon Footprint Calculator 2026 | AI Emission Estimator
+
+PURPOSE:
+Free interactive tool for corporations and organizations to estimate their Scope 1
+and Scope 2 carbon emissions and generate a compliant offset strategy.
+
+INPUT FIELDS:
+- Monthly Electricity Consumption (kWh)
+- Monthly Natural Gas Usage (Therms)
+- Monthly Fleet Vehicle Mileage (Miles)
+
+OUTPUT:
+- Estimated Annual Carbon Footprint in Tonnes CO2e
+- AI-generated offset strategy recommendation linked to marketplace
+
+SCOPE COVERAGE:
+- Scope 1: Direct emissions from fleet and natural gas combustion
+- Scope 2: Indirect emissions from purchased electricity
+
+USE CASES:
+- Corporate sustainability reporting
+- Pre-audit emission estimates
+- Net Zero target baseline setting
+- Offset portfolio sizing
+
+DISCLAIMER: Calculations are AI-generated estimates. Users should verify with
+a certified carbon auditor for compliance reporting purposes.
+
+================================================================================
+SECTION 8: DOCUMENTATION & API
+================================================================================
+
+PAGE URL: https://crbn.credit/docs
+PAGE TITLE: CRBN.CREDIT Documentation | Platform & API Reference
+
+AVAILABLE DOCUMENTATION SECTIONS:
+1. Getting Started — API authentication, rate limits, error handling quick-start
+2. API Reference — Detailed endpoint definitions for Market Data, Projects, Retirements
+3. SDKs & Libraries — Official client libraries for Python, Node.js, and Go
+4. Methodology — Fair value calculations and credit quality scoring explanation
+5. Compliance Guides — EU ETS reporting and SEC climate disclosure guides
+6. Support — Engineering team integration assistance
+
+API CAPABILITIES:
+- Market Data endpoints
+- Carbon Project data
+- Retirement event data
+- Rate limits defined per plan tier
+- Enterprise License required for data redistribution
+
+RATE LIMITS: Defined per plan; abusive behavior (scraping, DoS) results in throttling
+or termination of API access.
+
+DATA REDISTRIBUTION: Raw data feeds cannot be resold or sub-licensed without
+an Enterprise License. Derived indices and internal reports permitted with attribution.
+
+================================================================================
+SECTION 9: DATA METHODOLOGY
+================================================================================
+
+PAGE URL: https://crbn.credit/methodology
+PAGE TITLE: Methodology | CRBN.CREDIT
+
+OVERVIEW:
+CRBN.CREDIT employs a rigorous, multi-layered approach combining on-chain immutable
+records with traditional registry data to create a unified, institutional-grade view
+of the Voluntary Carbon Market.
+
+--- LAYER 1: DATA AGGREGATION (Oracle Engine) ---
+
+The Oracle Engine continuously polls three primary source categories:
+
+A) TRADITIONAL REGISTRIES:
+   - Verra (VCS — Verified Carbon Standard)
+   - Gold Standard (GS)
+   - American Carbon Registry (ACR)
+   - Climate Action Reserve (CAR)
+   Method: Parse PDF issuance documents and retirement logs.
+
+B) ON-CHAIN LEDGERS:
+   - Toucan Protocol (BCT — Base Carbon Tonne, NCT — Nature Carbon Tonne)
+   - KlimaDAO retirement events
+   - Celo-based retirement events
+   Method: Real-time blockchain monitoring.
+
+C) MARKET VENUES (Price Feeds):
+   - Xpansiv CBL (largest voluntary carbon exchange)
+   - CME Group (carbon futures contracts)
+   - Decentralized liquidity pools (Uniswap v3)
+   Method: Live feed aggregation.
+
+--- LAYER 2: QUALITY & INTEGRITY SCORING ---
+
+Raw data passes through a proprietary AI scoring model:
+
+A) ADDITIONALITY CHECK:
+   Analyzes project documentation for financial additionality claims.
+   (Would the project have happened without carbon finance?)
+
+B) PERMANENCE RISK ASSESSMENT:
+   Geospatial analysis of nature-based projects.
+   Assesses fire and drought risk via Buffer Pool analysis.
+
+C) VINTAGE DECAY MODELING:
+   Automated discounting of older vintages (>5 years old).
+   Based on current market preference curves (newer vintages command premiums).
+
+--- LAYER 3: FAIR VALUE CALCULATION ---
+
+Fair Value is a composite metric (not a single price point):
+
+FORMULA:
+Fair_Value = (VWAP_CEX × 0.4) + (VWAP_DEX × 0.4) + (OTC_Reported × 0.2)
+
+WEIGHTS:
+- VWAP from Centralized Exchanges (Xpansiv, CME): 40%
+- VWAP from Decentralized Exchanges (Uniswap, SushiSwap): 40%
+- OTC Broker-Reported Prices: 20%
+
+PURPOSE: Smooths out volatility from low-liquidity venues and provides a robust
+mark-to-market price for institutional portfolio managers.
+
+================================================================================
+SECTION 10: COMPLIANCE & REGULATORY ALIGNMENT
+================================================================================
+
+PAGE URL: https://crbn.credit/compliance
+PAGE TITLE: Compliance | CRBN.CREDIT
+
+PURPOSE: Ensures portfolios remain audit-ready as carbon markets transition from
+voluntary to compliance-driven frameworks.
+
+REGULATORY FRAMEWORKS SUPPORTED:
+
+1. EU ETS (European Union Emissions Trading System)
+   - Data feeds align with EU ETS reporting standards
+   - Tracks Carbon Border Adjustment Mechanism (CBAM) certificate pricing
+   - Helps importers hedge regulatory risk from CBAM
+
+2. ICVCM CORE CARBON PRINCIPLES (CCPs)
+   - Flags credits meeting Integrity Council for VCM (ICVCM) standards
+   - Ensures high-integrity investment screening
+
+3. SEC CLIMATE DISCLOSURE (United States)
+   - Reporting tools generate standardized outputs
+   - Compatible with SEC Scope 1, 2, and 3 disclosure requirements
+   - Streamlines ESG audit processes for US-listed companies
+
+4. KYC / AML (Know Your Customer / Anti-Money Laundering)
+   - Mandatory for all institutional access
+   - Ensures clean trading environment free from sanctioned entities
+
+ADDITIONAL FRAMEWORKS TRACKED:
+- CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation)
+- CBAM (Carbon Border Adjustment Mechanism — EU import carbon tax)
+- Article 6 of the Paris Agreement (ITMOs — Internationally Transferred Mitigation Outcomes)
+- TCFD (Task Force on Climate-related Financial Disclosures)
+- CSRD (Corporate Sustainability Reporting Directive — EU)
+- CDP (Carbon Disclosure Project)
+- ICVCM CCPs (Core Carbon Principles for VCM integrity)
+
+================================================================================
+SECTION 11: PRIVACY POLICY (SUMMARY)
+================================================================================
+
+PAGE URL: https://crbn.credit/privacy
+LAST UPDATED: January 1, 2026
+
+DATA COLLECTION (MINIMAL PRINCIPLE):
+- Account Info: Institutional email and entity details (for KYC/AML)
+- Usage Data: API call logs and dashboard interaction metrics (security/optimization)
+- Portfolio Data: Carbon credit holdings manually uploaded or synced via wallet
+  connect — encrypted at rest
+
+SECURITY MEASURES:
+- SOC 2 Type II compliant security infrastructure
+- End-to-end encryption: TLS 1.3
+- Multi-factor authentication (MFA) enforcement for enterprise accounts
+- Cold storage for cryptographic keys
+
+DATA SHARING POLICY:
+- CRBN.CREDIT does NOT sell user data
+- Data shared with Registry Partners ONLY when user explicitly initiates
+  a retirement or transfer
+- Data shared with Regulatory Bodies ONLY when compelled by law (e.g., EU ETS)
+
+CONTACT FOR PRIVACY: contact@crbn.credit
+
+================================================================================
+SECTION 12: TERMS OF SERVICE (SUMMARY)
+================================================================================
+
+PAGE URL: https://crbn.credit/terms
+LAST UPDATED: January 1, 2026
+
+KEY TERMS:
+
+1. ACCEPTANCE: By using CRBN.CREDIT platform, API, or data feeds, users agree
+   to these Terms. Entity representatives confirm authority to bind their organization.
+
+2. DATA LICENSING:
+   - License granted: Limited, non-exclusive, non-transferable for internal business analysis
+   - Prohibited: Reselling, redistributing, or sub-licensing raw data feeds
+     without an Enterprise License
+   - Permitted: Creating derived indices or internal reports with CRBN.CREDIT attribution
+
+3. API ACCESS:
+   - Subject to rate limits defined per plan
+   - Abusive use (scraping, DoS attacks) may result in throttling or termination
+
+4. DISCLAIMER OF WARRANTIES:
+   - Service provided "as is"
+   - No warranties on completeness or timeliness of carbon market data
+   - Data aggregated from third-party registries and decentralized protocols
+
+CONTACT FOR LEGAL: contact@crbn.credit
+
+================================================================================
+SECTION 13: ABOUT / FAQ (FULL Q&A)
+================================================================================
+
+PAGE URL: https://crbn.credit/about
+
+Q: What does CRBN.credit do?
+A: CRBN.credit provides market intelligence, analysis, and research tools focused
+on global carbon markets, including voluntary and compliance systems.
+
+Q: Is CRBN.credit a trading platform?
+A: No. CRBN.credit does not execute trades or sell carbon credits. It focuses on
+data, insights, and decision support.
+
+Q: Who is the platform built for?
+A: The platform is designed for institutions, brokers, analysts, funds, consultants,
+and advanced market participants seeking structured carbon market insights.
+
+Q: Does CRBN.credit provide financial advice?
+A: No. All content is informational and analytical in nature and should not be
+considered financial or investment advice.
+
+Q: What markets does CRBN.credit cover?
+A: Coverage includes voluntary carbon markets, compliance systems such as EU ETS,
+and emerging regulatory and methodological developments.
+
+Q: How is data sourced?
+A: Data is aggregated from public registries, regulatory disclosures, market reports,
+and structured research inputs.
+
+Q: Is AI used on the platform?
+A: Yes. AI is used to assist with research synthesis, scenario analysis, and
+structured interpretation of complex market information.
+
+Q: Is CRBN.credit free to use?
+A: Access models may evolve over time. Some features may be available publicly,
+while advanced tools are intended for professional use.
+
+Q: Is CRBN.credit affiliated with any registry?
+A: No. The platform operates independently and does not represent any registry,
+exchange, or issuing body.
+
+Q: What is the long-term vision?
+A: The long-term goal is to become a trusted intelligence layer for carbon markets,
+supporting transparency, accountability, and informed participation as the market matures.
+
+================================================================================
+SECTION 14: NAVIGATION & SITE STRUCTURE
+================================================================================
+
+PRIMARY NAVIGATION:
+- Terminal (Homepage): https://crbn.credit/
+- About: https://crbn.credit/about
+- Forecasts: https://crbn.credit/forecasts
+- DeFi: https://crbn.credit/defi
+- Marketplace: https://crbn.credit/marketplace
+- Calculator: https://crbn.credit/calculator
+- Intelligence (Blog): https://crbn.credit/blog
+- Institutional Login: https://crbn.credit/client-dashboard
+
+RESOURCE PAGES:
+- Documentation: https://crbn.credit/docs
+- System Status: https://crbn.credit/status
+
+LEGAL PAGES:
+- Privacy Policy: https://crbn.credit/privacy
+- Terms of Service: https://crbn.credit/terms
+- Compliance & Regulatory: https://crbn.credit/compliance
+- Data Methodology: https://crbn.credit/methodology
+
+================================================================================
+SECTION 15: GLOSSARY OF KEY TERMS
+================================================================================
+
+VCM (Voluntary Carbon Market): Market where companies and individuals voluntarily
+purchase carbon credits to offset their emissions, outside of mandatory compliance.
+
+EU ETS (European Union Emissions Trading System): The world's largest mandatory
+carbon cap-and-trade compliance market covering EU industries and aviation.
+
+EUA (EU Allowance): A unit under EU ETS allowing the holder to emit one tonne of CO2.
+
+CBAM (Carbon Border Adjustment Mechanism): EU regulation imposing carbon costs on
+imports from countries with lower carbon pricing.
+
+CORSIA: Carbon Offsetting and Reduction Scheme for International Aviation. ICAO's
+framework for airlines to offset international flight emissions.
+
+Article 6 (Paris Agreement): Framework for international carbon market cooperation,
+including Article 6.2 (bilateral ITMOs) and Article 6.4 (new UN carbon market).
+
+ITMOs (Internationally Transferred Mitigation Outcomes): Carbon units traded between
+nations under Article 6 of the Paris Agreement.
+
+Verra (VCS): The largest voluntary carbon standard and registry globally.
+
+Gold Standard (GS): A premium voluntary carbon standard emphasizing sustainable
+development co-benefits.
+
+Puro.earth: Registry specializing in engineered carbon removals (Biochar, biochar
+concrete, wood burial).
+
+ACR (American Carbon Registry): US-based voluntary carbon registry.
+
+CAR (Climate Action Reserve): US-focused voluntary carbon standard and registry.
+
+DAC (Direct Air Capture): Technology that mechanically removes CO2 directly from
+the atmosphere. High cost ($400–$1,000/tonne) but permanent removal.
+
+Biochar: Carbon-rich material produced by pyrolysis of biomass. Sequesters carbon
+in soil for 100–1,000 years. Currently ~$100–$200/tonne.
+
+Enhanced Weathering: Spreading crushed silicate rocks on farmland to accelerate
+natural CO2 absorption. Emerging carbon removal methodology.
+
+REDD+ (Reducing Emissions from Deforestation and Forest Degradation): Framework
+for protecting forests in developing countries as carbon offsets.
+
+Blue Carbon: Carbon sequestered by coastal and marine ecosystems (mangroves,
+seagrasses, saltmarshes). High biodiversity co-benefit.
+
+Additionality: Requirement that a carbon project reduces emissions beyond what
+would have occurred without carbon market financing.
+
+Permanence: Degree to which carbon stored by a project will remain stored long-term.
+Tech removals (DAC, biochar) score highest; forests score lower due to reversal risk.
+
+Vintage: The year in which carbon credits were generated/issued. Newer vintages
+command price premiums.
+
+VWAP (Volume-Weighted Average Price): Average price weighted by trading volume,
+used by CRBN.CREDIT in its Fair Value calculations.
+
+Buffer Pool: Reserve of carbon credits held back from market by a registry to
+compensate for potential project reversals (e.g., forest fires).
+
+TCFD (Task Force on Climate-related Financial Disclosures): Framework for companies
+to disclose climate-related financial risks and opportunities.
+
+CSRD (Corporate Sustainability Reporting Directive): EU directive requiring large
+companies to report on sustainability impacts.
+
+CDP (Carbon Disclosure Project): Global platform for company environmental
+self-reporting.
+
+ICVCM (Integrity Council for the Voluntary Carbon Market): Body establishing Core
+Carbon Principles (CCPs) — minimum quality thresholds for VCM credits.
+
+ReFi (Regenerative Finance): DeFi protocols designed to fund and scale
+environmental and climate solutions via blockchain.
+
+KlimaDAO: A DeFi protocol (on Polygon) that backs its KLIMA token with carbon
+credits from traditional registries, bridging TradFi and on-chain carbon markets.
+
+Toucan Protocol: Blockchain infrastructure for bringing tokenized carbon credits
+on-chain (BCT = Base Carbon Tonne, NCT = Nature Carbon Tonne).
+
+SOC 2: Security audit standard (Service Organization Control 2) demonstrating
+a company's data handling and security practices.
+
+KYC/AML: Know Your Customer / Anti-Money Laundering — regulatory compliance
+processes for verifying client identity.
+
+Scope 1 Emissions: Direct emissions from sources owned or controlled by a company
+(combustion, fleet vehicles, industrial processes).
+
+Scope 2 Emissions: Indirect emissions from purchased electricity, heat, or steam.
+
+Scope 3 Emissions: All other indirect emissions in a company's value chain
+(supply chain, employee travel, product use and disposal).
+
+LCOC (Levelized Cost of Capture): The cost per tonne of CO2 captured by a technology
+over its operational lifetime. Used to set DAC credit price floors.
+
+================================================================================
+END OF CRBN.CREDIT LLM KNOWLEDGE FILE
+================================================================================
+File generated: 2026-05-26
+Total pages crawled: 10 (homepage, about, forecasts, defi, marketplace, calculator, docs, methodology, compliance, privacy, terms)
+Excluded: Blog posts (/blog/*), client dashboard (/client-dashboard), status page (/status)
+For updates: contact@crbn.credit
