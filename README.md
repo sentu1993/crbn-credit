@@ -1,4 +1,4 @@
-# CRBN Credit
+# CRBN.Credit
 
 <div align="center">
   <img src="logo.png" alt="CRBN Credit Logo" width="200" />
